@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello it's me miggy 😎👌
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iggyboi2x)](https://git.io/streak-stats)   
 <!--
 **iggyboi2x/iggyboi2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
