@@ -32,9 +32,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-
+#### 🔥Contribution Streak!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iggyboi2x&theme=tokyonight)](https://git.io/streak-stats)
 
 
