@@ -2,20 +2,7 @@
 <h3 align="center">A BSIT Student from the University of Cebu!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BSIT+Student;Future+Software+Developer;Learning+Every+Day&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iggyboi2x&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iggyboi2x&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggyboi2x&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+Is+Cool;Every+Push+Is+A+Step+Towards+Greatness&center=true&width=500&height=45">
 </p>
 
 
