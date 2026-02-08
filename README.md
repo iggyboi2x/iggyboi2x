@@ -2,7 +2,7 @@
 <h3 align="center">A BSIT Student from the University of Cebu!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+Is+Cool;Every+Push+Is+A+Step+Towards+Greatness&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+Is+Cool!;Every+Push+Is+A+Step+Towards+Greatness!&center=true&width=500&height=45">
 </p>
 
 
