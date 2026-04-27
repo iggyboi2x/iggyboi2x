@@ -2,18 +2,18 @@
 <h3 align="center">💻 BSIT Student | ⚡ Full Stack Developer | 🇵🇭 Philippines</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Building+Real+Products+From+Scratch;Always+Learning+New+Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student+Full+Stack+Developer;I'm+A+Builder;Always+Learning+New+Things!&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 BSIT Student at **University of Cebu Lapu-Lapu and Mandaue**
+- 🎓 3rd year BSIT Student at **University of Cebu Lapu-Lapu and Mandaue**
 - 🚀 Building real-world products from frontend to deployment
 - 🔭 Currently working on **SaaS, EdTech & business web apps**
 - 🌱 Exploring **AI-powered workflows & full stack architecture**
-- ⚡ Fun fact: *I ship, therefore I am.*
+*I ship, therefore I am.*
 
 ---
 
