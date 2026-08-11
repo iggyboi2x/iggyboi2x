@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miggy</h1>
 <h3 align="center">💻 BSIT Student | ⚡ Full Stack Developer | 🇵🇭 Philippines</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Student+Full+Stack+Developer;I'm+A+Builder;Always+Learning+New+Things!&center=true&width=500&height=45">
 </p>
@@ -8,10 +7,10 @@
 ---
 
 ## 🌟 About Me
-
 - 🚀 Building real-world products from frontend to deployment
 - 🔭 Currently working on **SaaS, EdTech & business web apps**
 - 🌱 Exploring **AI-powered workflows & full stack architecture**
+
 *I ship, therefore I am.*
 
 ---
@@ -58,10 +57,9 @@
 
 ---
 
-
 ## 📫 Connect With Me
-
 <p align="center">
+  <a href="https://www.linkedin.com/in/francis-miguel-diano-091760316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/francismiguel.diano.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/mogiwowie/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
