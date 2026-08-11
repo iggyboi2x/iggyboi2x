@@ -58,13 +58,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iggyboi2x&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
