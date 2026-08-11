@@ -9,7 +9,6 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd year BSIT Student at **University of Cebu Lapu-Lapu and Mandaue**
 - 🚀 Building real-world products from frontend to deployment
 - 🔭 Currently working on **SaaS, EdTech & business web apps**
 - 🌱 Exploring **AI-powered workflows & full stack architecture**
